@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="EstructuraDatos2" Database="" Version="10000">
+  <Project Name="pasoPorReferencia" Path="ejemplo1/ejemplo1.project" Active="No"/>
+  <Project Name="pasoDeArgumentos" Path="ejemplo2/ejemplo2.project" Active="Yes"/>
+  <Project Name="ejemplo9" Path="ejemplo9/ejemplo9.project" Active="No"/>
+  <Project Name="ejemplo10" Path="ejemplo10/ejemplo10.project" Active="No"/>
+  <Project Name="ejemplo11" Path="ejemplo11/ejemplo11.project" Active="No"/>
+  <Project Name="ejemplo12" Path="ejemplo12/ejemplo12.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="pasoPorReferencia" ConfigName="Debug"/>
+      <Project Name="pasoDeArgumentos" ConfigName="Debug"/>
+      <Project Name="ejemplo9" ConfigName="Debug"/>
+      <Project Name="ejemplo10" ConfigName="Debug"/>
+      <Project Name="ejemplo11" ConfigName="Debug"/>
+      <Project Name="ejemplo12" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="pasoPorReferencia" ConfigName="Release"/>
+      <Project Name="pasoDeArgumentos" ConfigName="Release"/>
+      <Project Name="ejemplo9" ConfigName="Release"/>
+      <Project Name="ejemplo10" ConfigName="Release"/>
+      <Project Name="ejemplo11" ConfigName="Release"/>
+      <Project Name="ejemplo12" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
