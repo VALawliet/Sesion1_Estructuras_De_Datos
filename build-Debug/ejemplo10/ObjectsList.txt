@@ -1,1 +1,0 @@
-../build-Debug/ejemplo10/main.cpp.o   
